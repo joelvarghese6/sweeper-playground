@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Card, CardHeader, CardContent, CardDescription, CardFooter, CardTitle } from "@/components/ui/card"
+import { Card, CardHeader, CardContent, CardTitle } from "@/components/ui/card"
 import { Search } from "lucide-react";
 import { Input } from "@/components/ui/input"
 import { PlaygroundInitial } from "@/components/playground-initial";
